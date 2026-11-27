@@ -1,8 +1,8 @@
-# TaskForge 🚀
+# TaskForge - Task Management Website
 
 ### Automated Deployment and Infrastructure Monitoring of a Web Application Using DevOps Tools
 
-TaskForge is a lightweight sticky-note-based task management web application developed as part of the **DevOps Advance Configuration Management (INT333)** course at Lovely Professional University.
+TaskForge is a lightweight sticky-note-based task management web application
 
 The project focuses on demonstrating practical DevOps workflows, including version control, CI/CD automation, containerization, infrastructure provisioning, configuration management, cloud deployment, and infrastructure monitoring.
 
